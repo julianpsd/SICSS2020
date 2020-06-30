@@ -10,3 +10,7 @@ Furthermore, we compared this data with existing statistics on cases, deaths, an
 
 This work was done by Fatim Diabagate, Shruti Kulkarni,Matthew Martin, Julian Posada, Dan Xu, and Baturay Yurtbay.
 The repository remains private.
+
+## Data
+
+Unfortuntely, due to Github's size limits, only the code and the presentation of the data analysis has been uploaded to this repository.
