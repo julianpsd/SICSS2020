@@ -1,6 +1,5 @@
 ---
 title: "An Analysis of the Sentiments of the Covid-19 and its Impacts on the Economy"
-subtitle: "Part 1"
 author:
   - "Fatim Diabagate"
   - "Shruti Kulkarni"
