@@ -8,8 +8,7 @@ Furthermore, we compared this data with existing statistics on cases, deaths, an
 
 ## License
 
-This work was done by Fatim Diabagate, Shruti Kulkarni,Matthew Martin, Julian Posada, Dan Xu, and Baturay Yurtbay.
-The repository remains private.
+This work was done by Fatim Diabagate, Shruti Kulkarni, Matthew Martin, Julian Posada, Dan Xu, and Baturay Yurtbay.
 
 ## Data
 
