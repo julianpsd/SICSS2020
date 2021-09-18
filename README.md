@@ -2,9 +2,9 @@
 
 ## Description
 
-This is a repository for a group project developed during the 2020 Summer Institute in Computational Social Sciences
-This project analyse 1% of the tweets posted in Canada about the COVID-19 andemic between March and May 2020 to assess the topics and sentiment of the tweets. 
-Furthermore, we compared this data with existing statistics on cases, deaths, and the effects of COVID-19 in the job market to assess the correlations between these variables and the sentiment of the tweets.
+This is a repository for a group project developed during the 2020 Summer Institute in Computational Social Sciences.
+This project analyses 1% of the tweets posted in Canada between March and May 2020 mentioning the COVID-19 pandemic. We aimed to assess the topics and sentiment of these tweets. 
+Furthermore, we compared this data with existing statistics on the number of cases, deaths, and the effects of COVID-19 in the job market. Our project assessed the correlations between these variables and the sentiment of the tweets.
 
 ## License
 
